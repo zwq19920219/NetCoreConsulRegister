@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsulClientService", "ConsulClientService\ConsulClientService.csproj", "{98C05FAE-7B52-45D4-8D92-49E411BAF5F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsulCommon", "ConsulCommon\ConsulCommon.csproj", "{86009920-096F-4C0A-8AAB-F1FF337AEC68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98C05FAE-7B52-45D4-8D92-49E411BAF5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C05FAE-7B52-45D4-8D92-49E411BAF5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C05FAE-7B52-45D4-8D92-49E411BAF5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C05FAE-7B52-45D4-8D92-49E411BAF5F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86009920-096F-4C0A-8AAB-F1FF337AEC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86009920-096F-4C0A-8AAB-F1FF337AEC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86009920-096F-4C0A-8AAB-F1FF337AEC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86009920-096F-4C0A-8AAB-F1FF337AEC68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
